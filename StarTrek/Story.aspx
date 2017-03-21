@@ -34,11 +34,11 @@
 
                         <tr>
                             <td class="name">
-                                Lieutenant Commander Spydor was approached by Admiral Sexton and was told that, with 
+                                Lieutenant Commander Spydor was approached by Admiral Sexton and was told that with 
                                 the loss of Vulcan, 6 star-ships destroyed in the Nero incursion and attacks that have killed some 
                                 high ranking personnel the need for qualified officers is high.
                                 <br /><br /> 
-                                The admiral has offered the Lieutenant Commander a Captainship of his own ship.  Obviously he 
+                                The admiral offered the Lieutenant Commander a Captainship of his own ship.  Obviously he 
                                 agrees as it's the next step in his career and being offered the position earlier than some of his peers 
                                 seems like a great opportunity.
                                 <br /><br /> 
@@ -60,7 +60,7 @@
                                 <ul>
                                     <li>
                                         Half the crew is new, the other half are survivors of the initial attack.  The returning crew that survived 
-                                        is somewhat in shock, scared, and overtly cautious.
+                                        is somewhat in shock, scared, and overly cautious.
                                     </li>
                                     <li>
                                         While the ship is refitted it is still based around older technology.  Some capabilities are limited compared 
