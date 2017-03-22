@@ -76,7 +76,7 @@
                                 <br>
                                 <br>[Need detail]
                             </td>
-                            <td class="text-right">[Need detail]</td>
+                            <td class="text-right">Caitian<br />Male</td>
                         </tr>
 
                         <tr>
@@ -147,10 +147,10 @@
                                     Mathus
                                 </strong><br><small><em>Petty Officer 1st Class </em></small>
                                 <br>
-                                <br>This aspiring and mellow but libidinous 26-year-old woman has blue eyes, a rosy complexion, and straight blonde hair worn loose about the shoulders.
-                                She is very short and quite thin. She is from the peaceful town of Erycia Prime.
+                                <br>This aspiring and mellow but libidinous 26-year-old Andorian woman has blue eyes to match her blue skin, and straight light hair worn loose about the shoulders.
+                                She is very short and quite thin and has the characteristic antennae that her race is known for. She is from the peaceful town of Erycia Prime.
                             </td>
-                            <td class="text-right">Human<br />Female</td>
+                            <td class="text-right">Andorian<br />Female</td>
                         </tr>
 
                         <tr>
