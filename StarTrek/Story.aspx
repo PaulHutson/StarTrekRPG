@@ -107,7 +107,7 @@
                     <table class="table table-striped table-bordered">
                         <tr>
                             <td class="name">
-                                [Coming soon]
+								<a href="CaptainsLogs/11196.4.aspx">Captains Log - Star Date 11196.4</a>
                             </td>
                         </tr>
                     </table>
