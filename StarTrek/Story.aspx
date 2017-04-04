@@ -42,7 +42,7 @@
                                 agrees as it's the next step in his career and being offered the position earlier than some of his peers 
                                 seems like a great opportunity.
                                 <br /><br /> 
-                                One month later he has arrived in the space port, Spydor sees his ship the USS Brasier.  His "new" ship 
+                                One month later he has arrived in the space port, Spydor sees his ship the USS Brazier.  His "new" ship 
                                 is quite old being a Kelvin class vessel (nearing the end of it's service life), and one of the engineers 
                                 (eagerly and happily) informs the new Captain that the vessel was towed in only a month ago after a group 
                                 of Romulan "political refugees" were let aboard the ship. The Romulans were actually terrorists and planted 
@@ -67,7 +67,7 @@
                                         to more modern ships.
                                     </li>
                                     <li>
-                                        The USS Brasier is somewhat old looking and it isn't as clean looking as some of the other ships in the fleet.  
+                                        The USS Brazier is somewhat old looking and it isn't as clean looking as some of the other ships in the fleet.  
                                         That being said, there aren't a huge number of ships available in the fleet at the moment.
                                     </li>
                                     <li>
@@ -85,7 +85,7 @@
                         <tr>
                             <td class="name">
                                 <h4>General Mission</h4>
-                                The USS Brasier has been tasked with continuing the mission it had previously - to patrol the border space between
+                                The USS Brazier has been tasked with continuing the mission it had previously - to patrol the border space between
                                 Federation Space and the region claimed by the Romulan Empire.
                            </td>
                         </tr>
