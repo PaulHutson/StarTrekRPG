@@ -1,6 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPages/Log.Master" AutoEventWireup="true" CodeBehind="11196.4.aspx.cs" Inherits="StarTrek.CaptainsLogs._11196__41" %>
 <asp:Content ID="Content3" ContentPlaceHolderID="ph_LogPageTitle" runat="server">
-    USS Brazier - Captains Log Star Date 11196.4
+    USS Brazier | Captains Log Star Date 11196.4
 </asp:Content>
 <asp:Content ID="Content1" ContentPlaceHolderID="ph_LogTitle" runat="server">
     Captains Log - Star Date 11196.4

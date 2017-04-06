@@ -7,7 +7,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>USS Brazier</title>
+    <title>USS Brazier | Crew Roster</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
 
