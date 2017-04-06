@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Log.master.cs" Inherits="StarTrek.MasterPages.Log" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title><asp:ContentPlaceHolder ID="ph_LogPageTitle" runat="server"></asp:ContentPlaceHolder></title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width">
+
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="http://tradewind-mvii.herokuapp.com/static/css/bootstrap.css">
+	<link rel="stylesheet" href="http://tradewind-mvii.herokuapp.com/static/css/main.css">
+
+	<script src="http://tradewind-mvii.herokuapp.com/static/js/vendor/modernizr-2.6.2.min.js"></script>
+</head>
+<body>
+	<form id="form2" runat="server">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h1 class="shuffle">
+                        <asp:ContentPlaceHolder ID="ph_LogTitle" runat="server">
+        
+                        </asp:ContentPlaceHolder>
+					</h1>
+					<small>
+						<a href="../Story.aspx">Back to the Story</a>
+					</small>
+					 <table class="table table-striped table-bordered">
+						<tr>
+							<td class="name">
+							    <asp:ContentPlaceHolder ID="ph_LogArea" runat="server">
+        
+                                </asp:ContentPlaceHolder>
+                            </td>
+						</tr>
+					</table>
+					<small>
+						<a href="../Story.aspx">Back to the Story</a>
+					</small>
+					<br/>
+					<br/>
+				</div>
+			</div>
+		</div>
+	</form>
+</body>
+</html>

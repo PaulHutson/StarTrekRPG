@@ -5,9 +5,9 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace StarTrek.CaptainsLogs
+namespace StarTrek.MasterPages
 {
-    public partial class _11196__41 : System.Web.UI.Page
+    public partial class Log : System.Web.UI.MasterPage
     {
         protected void Page_Load(object sender, EventArgs e)
         {

@@ -110,6 +110,11 @@
 								<a href="CaptainsLogs/11196.4.aspx">Captains Log - Star Date 11196.4</a>
                             </td>
                         </tr>
+                        <tr>
+                            <td class="name">
+								<a href="CrewLogs/11196.6.aspx">Lieutenant Wollmuth - Log Star Date 11196.6</a>
+                            </td>
+                        </tr>
                     </table>
                 </div>
 

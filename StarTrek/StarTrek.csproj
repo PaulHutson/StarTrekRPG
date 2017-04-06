@@ -67,8 +67,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CaptainsLogs\11196.4.aspx" />
+    <Content Include="CrewLogs\11196.6.aspx" />
     <Content Include="Images\STLogo.png" />
     <Content Include="packages.config" />
+    <Content Include="MasterPages\Log.Master" />
     <None Include="Properties\PublishProfiles\StarTrekRPG - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\StarTrekRPG - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
@@ -91,12 +93,26 @@
     <Compile Include="CaptainsLogs\11196.4.aspx.designer.cs">
       <DependentUpon>11196.4.aspx</DependentUpon>
     </Compile>
+    <Compile Include="CrewLogs\11196.6.aspx.cs">
+      <DependentUpon>11196.6.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CrewLogs\11196.6.aspx.designer.cs">
+      <DependentUpon>11196.6.aspx</DependentUpon>
+    </Compile>
     <Compile Include="default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPages\Log.Master.cs">
+      <DependentUpon>Log.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPages\Log.Master.designer.cs">
+      <DependentUpon>Log.Master</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Story.aspx.cs">

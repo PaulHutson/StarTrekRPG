@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace StarTrek.CaptainsLogs
+namespace StarTrek.CrewLogs
 {
 
 
-    public partial class _11196__41
+    public partial class _11196__6
     {
     }
 }
