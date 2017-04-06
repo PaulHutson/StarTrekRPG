@@ -22,11 +22,17 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="shuffle">
-                        USS Brazier
-                    </h1>
-                    <h3 class="">Stellar Research Ship (AGOR-148)</h3>
-
+                    <div class="row">
+                        <div class="col-md-10">
+                            <h1 class="shuffle">
+                                USS Brazier
+                            </h1>
+                            <h3 class="">Stellar Research Ship (AGOR-148)</h3>
+                        </div>
+                        <div class="col-md-1">
+                            <img src="Images/STLogo.png" />
+                        </div>
+                    </div>
                     <div class="row">
 
                         <div class="col-md-7">
