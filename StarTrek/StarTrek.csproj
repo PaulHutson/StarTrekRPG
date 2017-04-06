@@ -67,7 +67,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CaptainsLogs\11196.4.aspx" />
-    <Content Include="CrewLogs\11196.6.aspx" />
+    <Content Include="CrewLogs\Lelli-11200.1.aspx" />
+    <Content Include="CrewLogs\Wollmuth-11196.6.aspx" />
     <Content Include="Images\STLogo.png" />
     <Content Include="packages.config" />
     <Content Include="MasterPages\Log.Master" />
@@ -93,12 +94,19 @@
     <Compile Include="CaptainsLogs\11196.4.aspx.designer.cs">
       <DependentUpon>11196.4.aspx</DependentUpon>
     </Compile>
-    <Compile Include="CrewLogs\11196.6.aspx.cs">
-      <DependentUpon>11196.6.aspx</DependentUpon>
+    <Compile Include="CrewLogs\Lelli-11200.1.aspx.cs">
+      <DependentUpon>Lelli-11200.1.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="CrewLogs\11196.6.aspx.designer.cs">
-      <DependentUpon>11196.6.aspx</DependentUpon>
+    <Compile Include="CrewLogs\Lelli-11200.1.aspx.designer.cs">
+      <DependentUpon>Lelli-11200.1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CrewLogs\Wollmuth-11196.6.aspx.cs">
+      <DependentUpon>Wollmuth-11196.6.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CrewLogs\Wollmuth-11196.6.aspx.designer.cs">
+      <DependentUpon>Wollmuth-11196.6.aspx</DependentUpon>
     </Compile>
     <Compile Include="default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>

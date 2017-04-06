@@ -112,7 +112,12 @@
                         </tr>
                         <tr>
                             <td class="name">
-								<a href="CrewLogs/11196.6.aspx">Lieutenant Wollmuth - Log Star Date 11196.6</a>
+								<a href="CrewLogs/Wollmuth-11196.6.aspx">Lieutenant Wollmuth - Log Star Date 11196.6</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="name">
+								<a href="CrewLogs/Lelli-11200.1.aspx">Petty Officer 3rd Class  Lelli - Log Star Date 11200.1</a>
                             </td>
                         </tr>
                     </table>
