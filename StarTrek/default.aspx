@@ -132,10 +132,10 @@
                         <tr>
                             <td class="name">
                                 <strong>
-                                    Ned Stark
+                                    Ned Lacey
                                 </strong><br/><small><em>Lieutenant</em></small>
                                 <br/>
-                                <br/>[awaiting description]
+                                <br/>Born aboard the USS Crazyhorse to a Botanist mother and Engineer father, Ned has his mothers dark features and his fathers tall sinewy physique.  He has a love of all things mechanical and electrical and approaches problems in a scientific and curious way.
                             </td>
                             <td class="text-right">Human<br />Male</td>
                         </tr>
