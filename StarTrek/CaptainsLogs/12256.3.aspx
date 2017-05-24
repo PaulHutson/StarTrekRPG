@@ -7,18 +7,17 @@
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ph_LogArea" runat="server">
 	It's been seventeen days since we left he space station after delivering Smyth and Harry to federation custody.
-	With the Brazire serviced and my new Ops Office Lieutenant Shar onboard it's been a largely uneventful period
+	With the Brazier serviced and my new Ops Office, Lieutenant Shar, onboard it's been a largely uneventful period
 	patrolling the boarder with the neutral zone.
 	<br />
 	<br />
-	At 7pm I was called to the bridge by Lieutenant Commander Ragis, this interrupted my meeting with Lieutenant Shar
+	At 7pm I was called to the bridge by Lieutenant Commander Ragis, interrupting my meeting with Lieutenant Shar
 	but the commander insisted it was urgent, reporting a vessel had been detected on long range scanners inside the
 	neutral zone.
 	<br />
 	<br />
 	By the time we arrived at the bridge Lieutenant Via was already there and busy at work with the scanners. After a
-	few moments with his superior Vulcan training we learned the ship was an older Romulan vessel travelling at low
-	warp on an intercept course with us.
+	few moments we learned the ship was an older Romulan vessel travelling at low warp on an intercept course with us.
 	<br />
 	<br />
 	<span style="font-style: italic">Captain Spydor: "How long to intercept?"</span>
@@ -44,7 +43,7 @@
 	<br />
 	As the Romulan vessel approached nothing else could be learnt from scanning or hailing them. We changed course and
 	they matched this. As a precaution we raised out shields in anticipation of their arrival. As the War Bird drew
-	closer we detect them charging weapons. The following exchange of particle beam fire left their engines critically
+	closer we detected them charging weapons. The following exchange of particle beam fire left their engines critically
 	damaged with a catastrophic failure imminent.
 	<br />
 	<br />
