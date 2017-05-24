@@ -31,7 +31,7 @@
 	<span style="font-style: italic">Captain Spydor: "On screen"</span>
 	<br />
 	<br />
-	Visual inspection revealed the vessel was older class Romulan War Bird, it appeared battle scared. Lieutenant
+	Visual inspection revealed the vessel was older class Romulan War Bird, it appeared battle scarred. Lieutenant
 	Commander Ragis tried to hail the vessel but there was no response. Lieutenant Lacy was able to able to boost
 	the range of ours comms relay using the deflector shield but there was still no response from the Romulan vessel.
 	<br />
@@ -72,7 +72,7 @@
 	time to deal with the Klingon ship they were able to jettison the warp core bring the ship to a halt. 
 	<br />
 	<br />
-	As soon as the Romulan vessel was disable the Kilgon cruiser turn back and started to fire on it. In the battle
+	As soon as the Romulan vessel was disabled the Kilgon cruiser turned back and started to fire on it. In the battle
 	that followed we were able to destroy the Kilgon cruiser before it did any real damage to the Romulan vessel with
 	the away team onboard.
 	<br />
@@ -83,7 +83,7 @@
 	at least 38 infected ships?
 	<br />
 	<br />
-	Lieutenant Via was able to detect the virus in the Brazier's systems. This must have been from out contact
+	Lieutenant Via was able to detect the virus in the Brazier's systems. This must have been from our initial contact
 	with the first vessel. Via was able to restart out systems isolating the virus into a separate sub-system. 
 	As the computer came back online some thirty minutes later the virus was gone from the main systems but we
 	detected another five ships on sensors 5 hours away at their current speed.
@@ -95,7 +95,7 @@
 	<br />
 	<br />
 	We had inadvertently transmitted the virus to starfleet command in out earlier subspace transmissions with Admiral
-	Sexton. After transmitting the cure to startfleet Sexton requested we bring the Romulan vessel back. It took some
-	time but chief engineer Lieutenant Lacy was able, with the help of his team, to re-integrate the previously
+	Sexton. After transmitting the virus cure to startfleet Sexton requested we bring the Romulan vessel back. It took some
+	time but chief engineer Lieutenant Lacy was able to, with the help of his team, re-integrate the previously
 	jettisoned warp core to the Romulan cruiser and we returned to dock with the Romulan ship close behind.
 </asp:Content>
