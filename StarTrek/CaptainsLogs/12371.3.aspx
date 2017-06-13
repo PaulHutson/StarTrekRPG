@@ -25,7 +25,7 @@
 	<br />
 	<br />
 	We dropped out of warp half a light year from the station as expected, Lieutenants Via and Lacey were able to
-	get a better look at the station. We detected a unidentified ship docked on the far side of the station. The
+	get a better look at the station. We detected an unidentified ship docked on the far side of the station. The
 	station was heavily shielded but lacked any weapons. We could detect 25 life signs onboard the station but
 	the sensors could tell us little else due to the shielding on the station.
 	<br />
@@ -38,7 +38,7 @@
 	We needed more information, the logical course of action was to move within visual range of the station and the
 	unknown vessel. As we approached we raised shields and went to tactical alert while there was still response to
 	hails. Once we were within visual range we could see the vessel was old and appeared undamaged. There were no
-	discernible markings on it hull but clearly a human configuration.
+	discernable markings on it hull but clearly a human configuration.
 	<br />
 	<br />
 	I ordered Lieutenant Shar to assemble a boarding party and the helm to dock with the station. As we began moving
@@ -53,7 +53,7 @@
 	<br />
 	<br />
 	At this point we backed off to reassess the situation. Scans of the unknown vessel revealed a single Nausicaan
-	bio sign. We has another sub space transmission from Starfleet indicating that the research being done on the
+	biosign. We has another sub space transmission from Starfleet indicating that the research being done on the
 	station was classified. Trying again to communicate with the station:
 	<br />
 	<br />
@@ -68,7 +68,7 @@
 	leaving Ragis in charge on the bridge.
 	<br />
 	<br />
-	Ned’s ability at the transport console severed us well and the simultaneous transports went off without an issue
+	Ned’s ability at the transport console served us well and the simultaneous transports went off without an issue
 	and the Nausicaan materialised in the brig. Immediately he started discharging his weapon. The force field contained
 	the particle discharge from the Nausicaans weapon but in an effort to disable his weapon Ned discharged a local EMP.
 	This did not go very well as a few moments later we came to with red lights illuminating the brig and the Nausicaan
@@ -104,7 +104,7 @@
 	Communicating with Ragis on the bridge Star requests we stand by for emergency transport, but is told about
 	our power/transporter issues and ordered with sit tight. Taking cover in the corridor two unknowns reach
 	the airlock and start trying to cut through. Fortunately the door was well sealed and it took about 15
-	minutes for them to open it. Multiple hostiles start through the door and Shar requests transport.
+	minutes for them to open it. Multiple hostiles started through the door as Shar requested transport.
 	<br />
 	<br />
 	<span style="font-style: italic">Shar: "Get me out of here…"</span>
@@ -149,15 +149,15 @@
 	<br />
 	<br />
 	After a tense moment the unknown hostiles came over the comm agreeing the the terms. They wanted 10 minutes
-	to get their people back on the ship and disengage. Mean while New reported that core systems were back online,
+	to get their people back on the ship and disengage. Meanwhile New reported that core systems were back online,
 	but it would be three hours at least until everything was fixed. This allowed me to use the turbo lifts to
-	return to the bridge. In sick bay Alec woke the Nausicaan, after an initial struggle he managed to reassure
+	return to the bridge. In sickbay Alec woke the Nausicaan, after an initial struggle he managed to reassure
 	him and things calmed down, but was total unresponsive to any questioning.
 	<br />
 	<br />
 	As the ship disengaged from the station we were able to establish contact with the scientists. They reported
-	that no one was hurt, in shock maybe but ok, and the captures had taken Dr Marnal and his colleague with
-	them.There was some damage to the station so we transported a couple of engineers to assist in repairs.
+	that no one was hurt, in shock maybe but ok, and the intruders had taken Dr Marnal and his colleague with
+	them. There was some damage to the station so we transported a couple of engineers to assist in repairs.
 	<br />
 	<br />
 	As we transported help to the station, the hostile ship jumped to warp. We were able to follow their warp
@@ -168,7 +168,7 @@
 	<br />
 	Despite their best efforts Via and Ned were unable to distinguish Dr Marnal and his colleague from the other
 	humans on the ship. Only being able to transport a six individuals at once and not wanted to send an armed
-	boring party we started to transport people from the ship to the brig, where Alec had filled the cells with
+	boarding party we started to transport people from the ship to the brig, where Alec had filled the cells with
 	a harmless knockout gas. We beamed the first six humans but none were the scientists, the gas did its job
 	and security were able to secure the hostiles without and trouble. As we prepared to transport the next six,
 	Via reported picking up something being expelled form the airlock on the hostile ship. At the same time we
@@ -178,9 +178,9 @@
 	We were able to beam the next six out at this point and along with 5 hostiles we recovered Dr Marnal. In
 	the final transport we got 2 Romulans, who were unaffected by the gas but the containment filed in the held
 	them. We were able to recover the corpse of Dr Marnal colleague on the way back to the station where our
-	engineers had completed repairs. Once they were safely back on board we set a course back to base. On route
-	Alec revived Dr Marnal from the affects of the gas, he was physically ok but clearly traumatised by the ordeal
-	specially the lose of a colleague.
+	engineers had completed repairs. Once they were safely back on board we set a course back to base. Enroute
+	Alec revived Dr Marnal from the effects of the gas, he was physically ok but clearly traumatised by the ordeal
+	specially the loss of a colleague.
 	<br />
 	<br />
 	When we arrived at the space station the prisoners where transferred to the Star Fleet security team and
