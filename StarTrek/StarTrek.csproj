@@ -72,7 +72,9 @@
     <Content Include="Images\STLogo.png" />
     <Content Include="packages.config" />
     <Content Include="MasterPages\Log.Master" />
+    <None Include="Properties\PublishProfiles\StarTrekRPG - FTP %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\StarTrekRPG - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\StarTrekRPG - Web Deploy %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\StarTrekRPG - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -142,7 +144,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>True</UseIIS>
+          <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>54745</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
