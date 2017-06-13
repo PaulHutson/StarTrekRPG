@@ -67,6 +67,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CaptainsLogs\11196.4.aspx" />
+    <Content Include="CaptainsLogs\12256.3.aspx" />
+    <Content Include="CaptainsLogs\12371.3.aspx" />
     <Content Include="CrewLogs\Lelli-11200.1.aspx" />
     <Content Include="CrewLogs\Wollmuth-11196.6.aspx" />
     <Content Include="Images\STLogo.png" />
@@ -95,6 +97,20 @@
     </Compile>
     <Compile Include="CaptainsLogs\11196.4.aspx.designer.cs">
       <DependentUpon>11196.4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CaptainsLogs\12256.3.aspx.cs">
+      <DependentUpon>12256.3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CaptainsLogs\12256.3.aspx.designer.cs">
+      <DependentUpon>12256.3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CaptainsLogs\12371.3.aspx.cs">
+      <DependentUpon>12371.3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CaptainsLogs\12371.3.aspx.designer.cs">
+      <DependentUpon>12371.3.aspx</DependentUpon>
     </Compile>
     <Compile Include="CrewLogs\Lelli-11200.1.aspx.cs">
       <DependentUpon>Lelli-11200.1.aspx</DependentUpon>

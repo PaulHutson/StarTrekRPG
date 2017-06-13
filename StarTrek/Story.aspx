@@ -120,7 +120,17 @@
 								<a href="CrewLogs/Lelli-11200.1.aspx">Petty Officer 3rd Class  Lelli - Log Star Date 11200.1</a>
                             </td>
                         </tr>
-                    </table>
+						<tr>
+							<td class="name">
+								<a href="CaptainsLogs/12256.3.aspx">Captains Log - Star Date 12256.3</a>
+							</td>
+						</tr>
+						<tr>
+							<td class="name">
+								<a href="CaptainsLogs/12371.3.aspx">Captains Log - Star Date 12371.3</a>
+							</td>
+						</tr>
+					</table>
                 </div>
 
             </div>
