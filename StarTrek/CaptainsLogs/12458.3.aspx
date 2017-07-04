@@ -32,9 +32,9 @@
 	sub-systems and no reported injuries.
 	<br />
 	<br />
-	The new region on space we entered was quite empty and the stars had clearly shifted from their previous
-	position. Lieutenant Kerensky was working in astronavigation but unfortunately overloaded and blow out
-	his console while trying to pinpoint or position. The lead ship was now back on sensors. First officer
+	The new region of space we entered was quite empty and the stars had clearly shifted from their previous
+	position. Lieutenant Kerensky was working in astronavigation but unfortunately overloaded and blew out
+	his console while trying to pinpoint our position. The lead ship was now back on sensors. First officer
 	Ragis tried to hail them but received only a garbled transmission in return.
 	<br />
 	<br />
@@ -49,8 +49,8 @@
 	Lieutenant Lacey was able to get astronavigation sensors back online following Snail’s incident and we started
 	detecting an echo of a small object 15 minutes ahead. Ned and Via had been working on the sensors and were able
 	to get a detailed scan of the object. It was a metallic sphere 20 meters in diameter. There were no life signs
-	abroad but we were able to detect a number of systems including sensor arrays, and propulsion. The sphere also
-	add an indeterminate opening in its outer hull. Ragis tried to hail the sphere and got a coded message back.
+	aboard but we were able to detect a number of systems including sensor arrays, and propulsion. The sphere also
+	had an indeterminate opening in its outer hull. Ragis tried to hail the sphere and got a coded message back.
 	It was going to take some time to decipher the response.
 	<br />
 	<br />
@@ -62,8 +62,8 @@
 	<br />
 	Via was detecting faint EM transmissions coming from the sphere directed at the disabled ships. We were
 	unable to raise the six disabled ships or detect any power signatures. Even backups seemed to be offline.
-	We made an attempted to use the grappler to pull Admiral Sextons ship back to safety. Our attempt failed
-	and as one of the other ships that had stopped manoeuvred into position to try they lost power too.
+	We made an attempt to use the grappler to pull Admiral Sextons ship back to safety. Our attempt failed
+	and as one of the other ships manoeuvred into position to try they lost power too.
 	<br />
 	<br />
 	Ragis and Via had managed to decipher to the response from the sphere. The message was “State designation,
@@ -74,7 +74,7 @@
 	of the fleet as they got nearer to the sphere.
 	<br />
 	<br />
-	Some time had now passed since the lead ships lost all power and our concern for their wellbeing without
+	Some time had now passed since the lead ships had lost power and our concern for their wellbeing without
 	life support had grown. We needed to act quickly, Ned suggested using our ship like a shield to block the
 	EM transmission from the sphere. I order the helm to take move into position as Ned had suggested. Sure
 	enough as maundered into place the other ships started to regain power.
@@ -89,8 +89,8 @@
 	all our sensor readings for analysis.
 	<br />
 	<br />
-	Wanting to gather more information about the sphere to find a way the whole fleet could more safely past I
-	ordered Ned to prepare a probe to transport inside the sphere. Shar managed to beam to probe across and data
+	Wanting to gather more information about the sphere to find a way that the whole fleet could more safely past I
+	ordered Ned to prepare a probe to transport inside the sphere. Shar managed to beam a probe across and data
 	started coming in. Visually the inside of the sphere was empty however we were able to detect a warp like
 	power supply and technology that was clearly based on older federation equipment but had been significantly
 	modified. There was no atmosphere in side the sphere and also no life signs. I decided to send an away team
@@ -135,7 +135,7 @@
 	<br />
 	<br />
 	Several hours later Via picked up an unknown planetary body on long range sensors, about ten hours from
-	our current position. After talking with the Admiral we continued towards the plant. As we draw closer
+	our current position. After talking with the Admiral we continued towards the plant. As we drew closer
 	Sexton ordered the fleet to hold position while we moved closer to investigate. It was an M class planet,
 	as we entered a high orbit we could detect a reasonable sized settlement, and empty space port and many
 	different life signs on the planet, some human.
@@ -165,7 +165,7 @@
 	<br />
 	Martin confirmed it was the year we thought, although appeared surprised by this question and looked around
 	oddly at the other men in the room before answering. Martin told us a bit about the colony’s history, it had
-	been founded 20 years ago by their leader Jeremy Watson. He is currently away from the colony exploring.
+	been founded 20 years ago by their leader Jeremy Watson. Currently away from the colony exploring.
 	They were aware of the anomaly surrounding the region. When asked if it were keeping them here he answered
 	no after an awkward pause and some odd looks to his fellow colonists. Their ships were unaffected by the
 	spheres so they had not paid much attention to them. Additionally they had seen some unmanned ships in the
@@ -181,7 +181,7 @@
 	<br />
 	While looking around the market Ragis found an establishment that looked like a shop but inside some less
 	than reputable characters were sat around. Ragis suggested we could help then leave the planet if they wanted.
-	This was met with some resistance, the men said they could leave but would only end up back here as that what
+	This was met with some resistance, the men said they could leave but would only end up back here as that is what
 	happens to everyone. Shar, in true Andorian style got a little upset by the mens tone and had to be pulled
 	away from the resulting physical altercation.
 	<br />
@@ -193,7 +193,7 @@
 	about this but he had seemingly disappeared and no-one was able or willing to say where he had gone.
 	<br />
 	<br />
-	Always looking for people to help Snail had visited to hospital to see if he could help the locals. Sure
+	Always looking for people to help Snail had visited the hospital to see if he could help the locals. Sure
 	enough they were in need of some supplies so Snail, Ned and I headed back to the ship.
 	<br />
 	<br />
