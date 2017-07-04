@@ -130,6 +130,11 @@
 								<a href="CaptainsLogs/12371.3.aspx">Captains Log - Star Date 12371.3</a>
 							</td>
 						</tr>
+						<tr>
+							<td class="name">
+								<a href="CaptainsLogs/12458.3.aspx">Captains Log - Star Date 12458.3</a>
+							</td>
+						</tr>
 					</table>
                 </div>
 
