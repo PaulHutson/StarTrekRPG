@@ -6,7 +6,7 @@
 	Captains Log - Star Date 12256.3
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ph_LogArea" runat="server">
-	It's been seventeen days since we left he space station after delivering Smyth and Harry to federation custody.
+	It's been seventeen days since we left the space station after delivering Smyth and Harry to federation custody.
 	With the Brazier serviced and my new Ops Office, Lieutenant Shar, onboard it's been a largely uneventful period
 	patrolling the boarder with the neutral zone.
 	<br />
